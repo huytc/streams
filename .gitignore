@@ -1,3 +1,4 @@
 client/shrinkwrap.yaml
 node_modules
 db.json
+api/shrinkwrap.yaml
